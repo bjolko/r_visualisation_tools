@@ -2,7 +2,7 @@
 Elvira Nassirova  
 9 mars 2018  
 
-To interact with the graphs see the [Visualisation_Tools_in_R.html]https://github.com/bjolko/r_visualisation_tools/Visualisation_Tools_in_R.html) file.
+To interact with the graphs see the [Visualisation_Tools_in_R.html](https://github.com/bjolko/r_visualisation_tools/blob/master/Visualisation_Tools_in_R.html) file.
 
 ## ggplot2
 
