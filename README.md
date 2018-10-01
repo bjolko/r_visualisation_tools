@@ -270,3 +270,5 @@ wordcloud(df$name, df$freq, min.freq = 1, scale = c(2,.1),
 5. [Leaflet for R](https://rstudio.github.io/leaflet/)
 
 6. [Color Palettes](http://colorpalettes.net/)
+
+7. [visNetwork](https://datastorm-open.github.io/visNetwork/)
